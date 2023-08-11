@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "brasil-api-promise": "^1.1.1",
+    "jquery-mask-plugin": "^1.14.16"
+  }
+}
